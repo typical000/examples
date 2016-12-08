@@ -4,58 +4,58 @@
 
 1. Namespace
 
-   [Demo](./namespace/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/namespace)
+   [Demo](http://cssinjs.github.io/examples/namespace/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/namespace)
 1. Composition
 
-   [Demo](./composition/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/composition)
+   [Demo](http://cssinjs.github.io/examples/composition/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/composition)
 1. Inline Styles
 
-   [Demo](./inline/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/inline)
+   [Demo](http://cssinjs.github.io/examples/inline/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/inline)
 1. Set/get rule property at runtime
 
-   [Demo](./dynamic-props/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/dynamic-props)
+   [Demo](http://cssinjs.github.io/examples/dynamic-props/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/dynamic-props)
 1. Global
 
-   [Demo](./global/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/global)
+   [Demo](http://cssinjs.github.io/examples/global/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/global)
 1. Angular with namespaces
 
-   [Demo](./angular/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/angular)
+   [Demo](http://cssinjs.github.io/examples/angular/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/angular)
 1. Perdido Layouts
 
-   [Demo](./perdido/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/perdido)
+   [Demo](http://cssinjs.github.io/examples/perdido/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/perdido)
 1. React with SSR
 
-   [Demo](./react-ssr/dist/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/react-ssr)
+   [Demo](http://cssinjs.github.io/examples/react-ssr/dist/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/react-ssr)
 
 ### Apps
 
 1. Calendar
 
-   [Demo](./calendar/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/calendar)
+   [Demo](http://cssinjs.github.io/examples/calendar/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/calendar)
 1. [Todo App](https://github.com/tizmagik/react-todomvc-jss)
 
 ### Plugins
 
 1. jss-nested
 
-   [Demo](./plugins/jss-nested/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-nested/simple)
+   [Demo](http://cssinjs.github.io/examples/plugins/jss-nested/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-nested/simple)
 1. jss-extend
 
-   [Simple](./plugins/jss-extend/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-extend/simple)
+   [Simple](http://cssinjs.github.io/examples/plugins/jss-extend/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-extend/simple)
 
-   [Multi](./plugins/jss-extend/multi/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-extend/multi)
+   [Multi](http://cssinjs.github.io/examples/plugins/jss-extend/multi/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-extend/multi)
 1. jss-default-unit
 
-   [Demo](./plugins/jss-default-unit/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-default-unit/simple)
+   [Demo](http://cssinjs.github.io/examples/plugins/jss-default-unit/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-default-unit/simple)
 1. jss-camel-case
 
-   [Demo](./plugins/jss-camel-case/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-camel-case/simple)
+   [Demo](http://cssinjs.github.io/examples/plugins/jss-camel-case/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-camel-case/simple)
 1. jss-vendor-prefixer
 
-   [Demo](./plugins/jss-vendor-prefixer/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-vendor-prefixer/simple)
+   [Demo](http://cssinjs.github.io/examples/plugins/jss-vendor-prefixer/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-vendor-prefixer/simple)
 1. jss-props-sort
 
-   [Demo](./plugins/jss-props-sort/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-props-sort/simple)
+   [Demo](http://cssinjs.github.io/examples/plugins/jss-props-sort/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-props-sort/simple)
 1. jss-isolate
 
-   [Demo](./plugins/jss-isolate/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-isolate/simple)
+   [Demo](http://cssinjs.github.io/examples/plugins/jss-isolate/simple/index.html) | [Source](http://github.com/cssinjs/examples/tree/gh-pages/plugins/jss-isolate/simple)
